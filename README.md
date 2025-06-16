@@ -1,9 +1,31 @@
 <h1 align="center">Hi 👋, I'm Adhwaith AS</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adhwaithas&label=Profile%20views&color=0e75b6&style=flat" alt="adhwaithas" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adhwaithas&label=Profile%20views&color=0e75b6&style=flat" alt="adhwaithas" />
+</p>
 
-- 📫 How to reach me **adhwaithas2007@gmail.com**
+- 💻 Most of my projects are currently in **private repositories** as I actively learn, experiment, and build.
+- 📫 Reach me at: **adhwaithas2007@gmail.com**
+
+---
+
+## 🧰 Projects
+
+Here are some of the projects I've worked on:
+
+| Project | Description | Tech Stack | Live Demo / Repo |
+|--------|-------------|------------|------------------|
+| **PuddleCast** | A minimal and beautiful weather app with location-based forecasting. | Next.js, Tailwind CSS, Open-Meteo API | [🌐 puddlecast.vercel.app](https://puddlecast.vercel.app) |
+| **Basic Python Calculator** | One of my first Python projects to learn input/output handling and control flow. | Python | [🔗 GitHub](https://github.com/AdhwaithAS/basic-python-calculator) |
+| **DocMizer (All-in-One Office Toolkit)** | A privacy-focused in-browser tool to compress PDFs, edit images, and perform various office-related tasks. | Next.js, WebAssembly, Node.js, Express, Bootstrap, CSS | [🌐 docmizer.com](https://www.docmizer.com/) |
+| **NEET OMR Evaluator** | A bubble detection and scoring system for NEET OMR sheets using computer vision. | Python, OpenCV, FastAPI, NumPy | [🌐 neet-mark-calculator.vercel.app](https://neet-mark-calculator.vercel.app/) |
+| **Slide Sniffer** | An intelligent image search and slideshow tool that extracts and displays images securely. | Next.js, Express.js, Node.js, MongoDB | [🌐 slidesniffer.vercel.app](https://slidesniffer.vercel.app/) |
+| **PeriodicTable.IN** | An interactive and educational periodic table website showcasing element data. | Next.js, Express.js, Node.js, MongoDB, Bootstrap, CSS | [🌐 periodictablein.vercel.app](https://periodictablein.vercel.app/) |
+| **Domain Tools API** | A public API hosted on RapidAPI offering various domain-related utilities. | Express.js, Node.js, WebAssembly | [🔗 RapidAPI](https://rapidapi.com/adhwaithas/api/domain-tools2) |
+
+> 🔒 More advanced projects are in private repos — focused on learning advanced web dev, automation, and computer vision.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
