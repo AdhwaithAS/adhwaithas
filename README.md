@@ -7,6 +7,7 @@
 
 - 💻 Most of my projects are currently in **private repositories** as I actively learn, experiment, and build.
 - 📫 Reach me at: **adhwaithas2007@gmail.com**
+- Currently Working On [OneBurn](https://github.com/AdhwaithAS/OneBurn)
 
 ---
 
@@ -23,6 +24,7 @@ Here are some of the projects I've worked on:
 | **Slide Sniffer** | An intelligent image search and slideshow tool that extracts and displays images securely. | Next.js, Express.js, Node.js, MongoDB | [🌐 slidesniffer.vercel.app](https://slidesniffer.vercel.app/) |
 | **PeriodicTable.IN** | An interactive and educational periodic table website showcasing element data. | Next.js, Express.js, Node.js, MongoDB, Bootstrap, CSS | [🌐 periodictablein.vercel.app](https://periodictablein.vercel.app/) |
 | **Domain Tools API** | A public API hosted on RapidAPI offering various domain-related utilities. | Express.js, Node.js, WebAssembly | [🔗 RapidAPI](https://rapidapi.com/adhwaithas/api/domain-tools2) |
+| **OneBurn** | One-time secret sharing API with burn-after-read, password & IP protection. | Express.js, Node.js, crypto, uuid, redis | [🔗 Coming Soon]() |
 
 > 🔒 More advanced projects are in private repos — focused on learning advanced web dev, automation, and computer vision.
 
