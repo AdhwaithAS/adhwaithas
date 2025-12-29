@@ -9,7 +9,7 @@
 - 📫 Reach me at: **adhwaithas2007@gmail.com**
 - Portfolio: [adhwaithas.dev](https://www.adhwaithas.dev)
 - Currently Working On [Neet Mark Calc](https://neet-mark-calculator.vercel.app/)
-
+-  Know about my experiences [Resume](https://www.adhwaithas.dev/resume.pdf/)
 ---
 
 ## 🧰 Projects
@@ -33,6 +33,7 @@ Here are some of the projects I've worked on:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.adhwaithas.dev" target="blank">PORTFOLIO</a>
 <a href="https://twitter.com/adhwaith_as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adhwaith_as" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adhwaithas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhwaithas" height="30" width="40" /></a>
 <a href="https://instagram.com/adhwaith_as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adhwaith_as" height="30" width="40" /></a>
