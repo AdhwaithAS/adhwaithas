@@ -27,6 +27,7 @@ Here are some of the projects I've worked on:
 | **Domain Tools API** | A public API hosted on RapidAPI offering various domain-related utilities. | Express.js, Node.js, WebAssembly | [🔗 RapidAPI](https://rapidapi.com/adhwaithas/api/domain-tools2) |
 | **OneBurn** | One-time secret sharing API with burn-after-read, password & IP protection. | Express.js, Node.js, crypto, uuid, redis | [🔗 OneBurn](https://oneburn.vercel.app/) |
 | **GeneCrypt** | DNA-style encoder for text and files using reversible, secure transformation with a numeric key. Fun, creative, and in beta. | Python, Hashlib | [🔗 GeneCrypt](https://github.com/AdhwaithAS/GeneCrypt/) |
+| **Edurea** | A Platform for rank prediction and response sheet analysis for entrance examinations. | NextJS, Supabase, ExpressJS, WebSocket | [🌐 Edurea](https://edurea.in/) |
 
 > 🔒 More advanced projects are in private repos — focused on learning advanced web dev, automation, and computer vision.
 
