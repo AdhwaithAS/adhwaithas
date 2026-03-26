@@ -8,7 +8,7 @@
 - 💻 Most of my projects are currently in **private repositories** as I actively learn, experiment, and build.
 - 📫 Reach me at: **adhwaithas2007@gmail.com**
 - Portfolio: [adhwaithas.dev](https://www.adhwaithas.dev)
-- Currently Working On [Edurea](https://edurea.in/)
+- Currently Working On [None]
 -  Know about my experiences [Resume](https://www.adhwaithas.dev/resume.pdf/)
 ---
 
