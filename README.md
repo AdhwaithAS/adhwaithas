@@ -8,6 +8,10 @@ I build software, experiment with emerging technologies, and turn ideas into wor
 
 [Portfolio](https://www.adhwaithas.dev) · [LinkedIn](https://linkedin.com/in/adhwaithas) · [X](https://twitter.com/adhwaith_as) · [Resume](https://www.adhwaithas.dev/resume.pdf)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adhwaithas&label=Profile%20views&color=0e75b6&style=flat" alt="adhwaithas" />
+</p>
+
 </div>
 
 ---
