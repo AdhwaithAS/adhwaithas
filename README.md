@@ -1,49 +1,109 @@
-<h1 align="center">Hi 👋, I'm Adhwaith AS</h1>
-<h3 align="center">A passionate developer from India</h3>
+ <div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adhwaithas&label=Profile%20views&color=0e75b6&style=flat" alt="adhwaithas" />
-</p>
+# Adhwaith AS
 
-- 💻 Most of my projects are currently in **private repositories** as I actively learn, experiment, and build.
-- 📫 Reach me at: **adhwaithas2007@gmail.com**
-- Portfolio: [adhwaithas.dev](https://www.adhwaithas.dev)
-- Currently Working On [None]
--  Know about my experiences [Resume](https://www.adhwaithas.dev/resume.pdf/)
+**Developer · Product Builder · Computer Science Student**
+
+I build software, experiment with emerging technologies, and turn ideas into working products.
+
+[Portfolio](https://www.adhwaithas.dev) · [LinkedIn](https://linkedin.com/in/adhwaithas) · [X](https://twitter.com/adhwaith_as) · [Resume](https://www.adhwaithas.dev/resume.pdf)
+
+</div>
+
 ---
 
-## 🧰 Projects
+### About
 
-Here are some of the projects I've worked on:
+- Building products across web development, automation, AI and systems engineering.
+- Interested in developer tooling, infrastructure, computer vision and applied AI.
+- Currently exploring systems programming, Linux, self-hosting and software architecture.
+- Software Cluster Lead at **μLearn**.
+- Most of my recent experiments and larger projects live in private repositories.
 
-| Project | Description | Tech Stack | Live Demo / Repo |
-|--------|-------------|------------|------------------|
-| **PuddleCast** | A minimal and beautiful weather app with location-based forecasting. | Next.js, Tailwind CSS, Open-Meteo API | [🌐 puddlecast.vercel.app](https://puddlecast.vercel.app) |
-| **Basic Python Calculator** | One of my first Python projects to learn input/output handling and control flow. | Python | [🔗 GitHub](https://github.com/AdhwaithAS/basic-python-calculator) |
-| **DocMizer (All-in-One Office Toolkit)** | A privacy-focused in-browser tool to compress PDFs, edit images, and perform various office-related tasks. | Next.js, WebAssembly, Node.js, Express, Bootstrap, CSS | [🌐 docmizer.com](https://www.docmizer.com/) |
-| **NEET OMR Evaluator** | A bubble detection and scoring system for NEET OMR sheets using computer vision. | Python, OpenCV, FastAPI, NumPy | [🌐 neet-mark-calculator.vercel.app](https://neet-mark-calculator.vercel.app/) |
-| **Slide Sniffer** | An intelligent image search and slideshow tool that extracts and displays images securely. | Next.js, Express.js, Node.js, MongoDB | [🌐 slidesniffer.vercel.app](https://slidesniffer.vercel.app/) |
-| **PeriodicTable.IN** | An interactive and educational periodic table website showcasing element data. | Next.js, Express.js, Node.js, MongoDB, Bootstrap, CSS | [🌐 periodictablein.vercel.app](https://periodictablein.vercel.app/) |
-| **Domain Tools API** | A public API hosted on RapidAPI offering various domain-related utilities. | Express.js, Node.js, WebAssembly | [🔗 RapidAPI](https://rapidapi.com/adhwaithas/api/domain-tools2) |
-| **OneBurn** | One-time secret sharing API with burn-after-read, password & IP protection. | Express.js, Node.js, crypto, uuid, redis | [🔗 OneBurn](https://oneburn.vercel.app/) |
-| **GeneCrypt** | DNA-style encoder for text and files using reversible, secure transformation with a numeric key. Fun, creative, and in beta. | Python, Hashlib | [🔗 GeneCrypt](https://github.com/AdhwaithAS/GeneCrypt/) |
-| **Edurea** | A Platform for rank prediction and response sheet analysis for entrance examinations. | NextJS, Supabase, ExpressJS, WebSocket | [🌐 Edurea](https://edurea.in/) |
+---
 
-> 🔒 More advanced projects are in private repos — focused on learning advanced web dev, automation, and computer vision.
+### Featured Projects
 
+A selection of products, experiments and engineering projects I've worked on.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.adhwaithas.dev" target="blank">PORTFOLIO</a>
-<a href="https://twitter.com/adhwaith_as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adhwaith_as" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adhwaithas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhwaithas" height="30" width="40" /></a>
-<a href="https://instagram.com/adhwaith_as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adhwaith_as" height="30" width="40" /></a>
-</p>
+| Project | Description | Technologies |
+|:---|:---|:---|
+| **[Edurea](https://edurea.in/)** | An examination intelligence platform for entrance exam rank prediction and response-sheet analysis. | Next.js, Supabase, PostgreSQL, Express.js, WebSockets |
+| **MuFIFA 2026** | A football-themed learning initiative engaging 1,700+ students across Kerala through technology, management and maker challenges. | Web Development, Automation, Community Systems |
+| **ZeroBloat** | A lightweight desktop utility for Android Debug Bridge workflows, built to simplify device management. | Go, Wails, Svelte, ADB |
+| **[Rise Together 2026](https://survey.risetogether2026.com/)** | A digital initiative supporting a statewide youth campaign through surveys, personalized badges and engagement systems. | Next.js, Supabase, PostgreSQL |
+| **[DocMizer](https://docmizer.com/)** | A privacy-focused office toolkit for working with PDFs, images and documents directly in the browser. | Next.js, WebAssembly, Node.js, Express |
+| **[SlideSniffer](https://slidesniffer.vercel.app/)** | An image discovery and slideshow platform designed to search, extract and present visual content. | Next.js, Express.js, Node.js, MongoDB |
 
-<h3 align="left">Languages and Tools:</h3>
+> Some projects are under active development or maintained in private repositories.
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
 
+### Tech Stack
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/adhwaithas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adhwaithas" /></a></p>
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+
+**Frontend & Application Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Infrastructure & DevOps**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Tools & Other Technologies**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+---
+
+### Connect
+
+I'm always interested in interesting engineering problems, collaborations and building useful things.
+
+- **Email:** adhwaithas2007@gmail.com
+- **Website:** https://www.adhwaithas.dev
+- **GitHub:** https://github.com/AdhwaithAS
+- **LinkedIn:** https://linkedin.com/in/adhwaithas
+
+<div align="center">
+
+*Building things, breaking things, and learning along the way.*
+
+</div>
