@@ -32,12 +32,14 @@ A selection of products, experiments and engineering projects I've worked on.
 
 | Project | Description | Technologies |
 |:---|:---|:---|
+| **[μLearn MCE Website](https://mulearnmce.in/)** | Official website for μLearn Marian Engineering College, supporting community engagement, learning activities and student initiatives. | Next.js, React, Supabase |
 | **[Edurea](https://edurea.in/)** | An examination intelligence platform for entrance exam rank prediction and response-sheet analysis. | Next.js, Supabase, PostgreSQL, Express.js, WebSockets |
-| **MuFIFA 2026** | A football-themed learning initiative engaging 1,700+ students across Kerala through technology, management and maker challenges. | Web Development, Automation, Community Systems |
-| **ZeroBloat** | A lightweight desktop utility for Android Debug Bridge workflows, built to simplify device management. | Go, Wails, Svelte, ADB |
+| **[MuFIFA 2026](https://mufifa.mulearn.org/)** | A football-themed learning initiative engaging 1,700+ students across Kerala through technology, management and maker challenges. | Web Development, Automation, Community Systems |
+| **[ZeroBloat](https://github.com/AdhwaithAS/ZeroBloat)** | A lightweight desktop utility for Android Debug Bridge workflows, built to simplify device management. | Go, Wails, Svelte, ADB |
 | **[Rise Together 2026](https://survey.risetogether2026.com/)** | A digital initiative supporting a statewide youth campaign through surveys, personalized badges and engagement systems. | Next.js, Supabase, PostgreSQL |
 | **[DocMizer](https://docmizer.com/)** | A privacy-focused office toolkit for working with PDFs, images and documents directly in the browser. | Next.js, WebAssembly, Node.js, Express |
 | **[SlideSniffer](https://slidesniffer.vercel.app/)** | An image discovery and slideshow platform designed to search, extract and present visual content. | Next.js, Express.js, Node.js, MongoDB |
+| **[PeriodicTable.IN](https://periodictablein.vercel.app/)** | An interactive periodic table platform for exploring chemical elements, their properties, and scientific data through an educational interface. | Next.js, React, Node.js, Express.js, MongoDB |
 
 > Some projects are under active development or maintained in private repositories.
 
