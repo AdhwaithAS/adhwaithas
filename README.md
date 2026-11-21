@@ -1,12 +1,26 @@
- <div align="center">
-
-# Adhwaith AS
+<div align="center">
+ 
+# Hi 👋, I'm Adhwaith AS
 
 **Developer · Product Builder · Computer Science Student**
 
 I build software, experiment with emerging technologies, and turn ideas into working products.
 
-[Portfolio](https://www.adhwaithas.dev) · [LinkedIn](https://linkedin.com/in/adhwaithas) · [X](https://twitter.com/adhwaith_as) · [Resume](https://www.adhwaithas.dev/resume.pdf)
+<a href="https://www.adhwaithas.dev">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/adhwaithas">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/adhwaith_as">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://github.com/AdhwaithAS">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.adhwaithas.dev/resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adhwaithas&label=Profile%20views&color=0e75b6&style=flat" alt="adhwaithas" />
@@ -99,14 +113,31 @@ A selection of products, experiments and engineering projects I've worked on.
 
 ---
 
-### Connect
+<div align="center">
 
-I'm always interested in interesting engineering problems, collaborations and building useful things.
+### Connect with me
 
-- **Email:** adhwaithas2007@gmail.com
-- **Website:** https://www.adhwaithas.dev
-- **GitHub:** https://github.com/AdhwaithAS
-- **LinkedIn:** https://linkedin.com/in/adhwaithas
+<a href="https://www.adhwaithas.dev">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/AdhwaithAS">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/adhwaithas">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/adhwaith_as">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://instagram.com/adhwaith_as">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:adhwaithas2007@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+<br/>
 
 <div align="center">
 
